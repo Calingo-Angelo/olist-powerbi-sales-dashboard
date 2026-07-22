@@ -1,2 +1,2 @@
-# olist-powerbi-sales-dashboard
+# Olist E-Commerce Sales Dashboard
 Interactive Power BI dashboard analyzing e-commerce sales, customer reviews, and payment trends using the Olist dataset.
