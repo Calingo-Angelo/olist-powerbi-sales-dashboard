@@ -1,4 +1,4 @@
-# Olist E-Commerce Sales Dashboard
+# Power BI E-Commerce Sales Dashboard
 
 Executive Power BI dashboard built to analyze sales performance, customer reviews, product categories, and payment trends using the Olist Brazilian E-Commerce dataset. This project demonstrates end-to-end business intelligence skills including data preparation, data modeling, DAX calculations, dashboard development, and business insight generation.
 
@@ -22,7 +22,7 @@ The dashboard was designed to answer questions such as:
 - Which product categories generate the most revenue?
 - How satisfied are customers based on review scores?
 - Which payment methods account for the largest share of revenue?
-- What are the company's key performance indicators?
+- What are the company's key performance indicators (KPIs)?
 
 ---
 
@@ -51,7 +51,7 @@ The dashboard includes:
 - Customer Review Score Distribution
 - Revenue by Payment Method
 
-These visualizations provide a high-level overview of business performance while enabling users to quickly identify important trends.
+These visualizations provide a high-level overview of business performance while enabling users to quickly identify important trends and patterns.
 
 ![Dashboard Charts](images/dashboard-charts.png)
 
@@ -86,7 +86,7 @@ Dimension tables include:
 - Reviews
 - Calendar
 
-Relationships were configured to support efficient filtering and aggregation across the model, following common business intelligence best practices.
+Relationships were configured to support efficient filtering and aggregation across the model while following common business intelligence best practices.
 
 ---
 
@@ -111,7 +111,7 @@ Analysis of the dashboard revealed several business insights:
 - Revenue increased steadily throughout most of the available reporting period.
 - **Health & Beauty** and **Watches & Gifts** generated the highest revenue among product categories.
 - Most customer reviews received the maximum rating of **5**, indicating generally high customer satisfaction.
-- Credit cards accounted for approximately **78% of total payment value**.
+- Credit cards accounted for approximately **78% of total payment value**, making them the dominant payment method.
 
 ---
 
@@ -167,7 +167,7 @@ The dataset contains information about:
 # Repository Structure
 
 ```text
-olist-powerbi-sales-dashboard/
+power-bi-ecommerce-sales-dashboard/
 │
 ├── images/
 │   ├── dashboard-overview.png
